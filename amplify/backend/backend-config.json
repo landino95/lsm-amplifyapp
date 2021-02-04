@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "lsmamplifyapp46e8cbaa": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
